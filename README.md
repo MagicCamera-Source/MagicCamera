@@ -1,0 +1,2 @@
+# MagicCamera
+Camera control
